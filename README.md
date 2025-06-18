@@ -8,7 +8,7 @@ This project provides a complete machine learning pipeline and mobile interface 
 ---
 
 ## 🔗 GitHub Repository
-👉 [GitHub Repo Link Here](https://github.com/your-username/your-wound-classification-project)
+👉 [GitHub Repo Link Here](https://github.com/Esther-Mbanzabigwi/AI-Driven-C-Section-Wound-Monitoring-System-for-Postoperative-Maternal-Health-.git)
 
 ---
 
@@ -17,7 +17,7 @@ This project provides a complete machine learning pipeline and mobile interface 
 ### 🐍 Python Environment Setup
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/your-wound-classification-project
+git clone https://github.com/Esther-Mbanzabigwi/AI-Driven-C-Section-Wound-Monitoring-System-for-Postoperative-Maternal-Health-.git
 cd your-wound-classification-project
 ```
 
