@@ -51,7 +51,7 @@ flutter run
 
 ## 🎨 Designs & Screenshots
 
-### ✅ Mobile App Wireframes (Flutter)
+### Mobile App Wireframes (Flutter)
 - Included in `designs/wireframes/`
 - Format: `.png` screenshots and `.fig` files for Figma
 
@@ -66,7 +66,7 @@ All visuals are in the `/designs/` folder.
 
 ---
 
-## 🚀 Deployment Plan
+##  Deployment Plan
 
 ### Backend (API):
 - Hosted using **Render** or **Railway**
@@ -79,8 +79,8 @@ All visuals are in the `/designs/` folder.
 
 ---
 
-## 📹 Demo Video
-- 📼 Link: [Upload to YouTube or Google Drive and paste here]
+## Demo Video
+- Link: [Upload to YouTube or Google Drive and paste here]
 - Duration: ~7 minutes
 - Includes:
   - CNN Training Overview
