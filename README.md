@@ -1,7 +1,7 @@
 # AI-Driven-C-Section-Wound-Monitoring-System-for-Postoperative-Maternal-Health-
 
 
-# 📱 AI-Powered C-Section Wound Classification App
+#  AI-Powered C-Section Wound Classification App
 
 This project provides a complete machine learning pipeline and mobile interface for detecting **C-section wound infections** using **Convolutional Neural Networks (CNNs)**. The app allows mothers to take a picture of their wound and receive a real-time classification as either **Healthy** or **Infected**.
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 python wound_api_backend.py
 ```
 
-### 📱 Flutter Setup
+###  Flutter Setup
 1. Install Flutter and Android Studio
 2. Open the `/flutter_app/` directory in your Flutter IDE
 3. Connect to your phone/emulator and run:
@@ -55,7 +55,7 @@ flutter run
 - Included in `designs/wireframes/`
 - Format: `.png` screenshots and `.fig` files for Figma
 
-### 🧠 Model Diagrams
+###  Model Diagrams
 - CNN Architecture
 - System Architecture
 - Data Flow Diagram
@@ -90,7 +90,7 @@ All visuals are in the `/designs/` folder.
 
 ---
 
-## 🧠 ML Code Components
+##  ML Code Components
 
 - `cnn_model.py` — Custom CNN architecture
 - `train_model.ipynb` — Kaggle training notebook
